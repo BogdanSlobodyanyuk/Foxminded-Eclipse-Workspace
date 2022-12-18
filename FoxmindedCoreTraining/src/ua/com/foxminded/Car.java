@@ -8,7 +8,7 @@ public abstract class Car implements Serviciable {
 
     int price;
 
-    int weightOfCar;
+    int weight;
     
     Color color;
     
@@ -22,7 +22,7 @@ public abstract class Car implements Serviciable {
 		this.name = name;
 		this.yearOfProduction = yearOfProduction;
 		this.price = price;
-		this.weightOfCar = weight;
+		this.weight = weight;
 		this.color = Color.valueOf(color);
 		this.distanceForRepair = distanceForRepair;
 		
@@ -63,7 +63,7 @@ public int getDistance() {
 	@Override
 	public String toString() {
 		return "Car [name=" + name + ", yearOfProduction=" + yearOfProduction + ", price=" + price + ", weight="
-				+ weightOfCar + ", color=" + color + ", distance=" + distance + ", distanceForRepair=" + distanceForRepair
+				+ weight + ", color=" + color + ", distance=" + distance + ", distanceForRepair=" + distanceForRepair
 				+ "]";
 	}
 
