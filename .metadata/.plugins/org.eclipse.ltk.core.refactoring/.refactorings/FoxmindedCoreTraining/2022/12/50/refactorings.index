@@ -3,3 +3,6 @@
 1671269799276	Rename local variable 'renaultPassenger'
 1671361671006	Rename type 'Bus'
 1671366154388	Rename type 'BusT4'
+1671367521942	Rename type 'BusMumRed'
+1671376502401	Rename type 'BusMum'
+1671393846191	Rename field 'weight'
