@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JavaFull&apos; to &apos;JavaFullServlets&apos;" description="Rename resource &apos;JavaFull&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JavaFull" name="JavaFullServlets" stamp="1671361102699" updateReferences="true"/>
+</session>
