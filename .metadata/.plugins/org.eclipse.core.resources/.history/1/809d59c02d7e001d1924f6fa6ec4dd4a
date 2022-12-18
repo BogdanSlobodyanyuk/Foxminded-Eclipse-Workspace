@@ -1,0 +1,23 @@
+package ua.com.foxmindedmassive;
+
+public class Massive {
+
+	public static void main(String[] args) {
+		
+		
+
+	
+	for (int i = 0 ; i >= 0 ; i=+1) {
+		
+		String someWord = "Bob Kim Elza";
+		String [] firstMassive = someWord.split(" ");
+		
+		System.out.println(i);
+	}
+	
+		
+	
+
+	}
+
+}

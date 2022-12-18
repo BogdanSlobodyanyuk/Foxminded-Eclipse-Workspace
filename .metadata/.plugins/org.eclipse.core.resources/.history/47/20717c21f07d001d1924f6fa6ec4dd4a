@@ -1,0 +1,28 @@
+package ua.com.foxminded;
+
+public class CarManager {
+
+	public static void main(String[] args) {
+		
+		Car toyota = new PassengerCar("Prius", 2008, 15000, 1200, "GREEN");
+		Car renault = new PassengerCar("Laguna", 2000, 9700, 1600 , "WHITE");
+		Car renaultBus = new Bus ("Megan", 2010, 12000, 2000, "White");
+		Motorcycle suzuki = new Motorcycle ("Suzuki GSX-R1000", 2021, 16000, 600, "Bl AcK" , "Disel", false);
+		Motorcycle yamaha  = new Motorcycle ("Yamaha FZ1", 2007, 9000, 700, "  orange", "Gas" , false);
+		Motorcycle yamahaCompareble  = new Motorcycle ("FZ1", 2007, 9000, 700, "ORanGe", "Gas" , false);
+		
+
+		suzuki.paintMotorcycle("green");
+		
+		
+
+		System.out.println(toyota);
+
+		System.out.println(renault);
+		System.out.println(suzuki);
+		System.out.println(yamaha);
+		System.out.println(yamahaCompareble.equals(yamaha));
+		
+	}
+
+}

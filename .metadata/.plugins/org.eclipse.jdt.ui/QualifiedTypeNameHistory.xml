@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ua.com.foxminded.helloworld.HelloWorld.MoonRobotVespenGasDetector"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ua.com.foxminded.helloworld.MoonComputerTests"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="ua.com.foxminded.secondpart.Motorcycle"/>
+    <fullyQualifiedTypeName name="ua.com.foxminded.secondpart.VillageCar"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.apache.catalina.connector.Request"/>
+    <fullyQualifiedTypeName name="ua.com.foxminded.CarManager"/>
+    <fullyQualifiedTypeName name="ua.com.foxminded.Car"/>
+    <fullyQualifiedTypeName name="ua.com.foxminded.PassengerCar"/>
+    <fullyQualifiedTypeName name="ua.com.foxminded.Serviciable"/>
+    <fullyQualifiedTypeName name="ua.com.foxmindedmassive.Massive"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.calc.SignedRemNode"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

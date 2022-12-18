@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [15/Oct/2022:12:45:27 +0100] "GET /JavaFull/BookManipulation.jsp HTTP/1.1" 200 1125
+0:0:0:0:0:0:0:1 - - [15/Oct/2022:12:45:28 +0100] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Oct/2022:12:45:59 +0100] "GET /JavaFull/FormToAddBook.jsp?name=Lokki+Makker+ HTTP/1.1" 200 820

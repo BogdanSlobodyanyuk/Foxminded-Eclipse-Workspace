@@ -1,0 +1,7 @@
+1659785984296	Extract local variable 'oneMoreAnswer'
+1659802754986	Rename package 'ua.com.foxminded.firstprogram'
+1659804202779	Rename type 'ClassesAndObjects'
+1659887869110	Rename method 'changeColor'
+1659888585142	Rename method 'AddDistance'
+1659890728896	Rename method 'destroiEngine'
+1659898727466	Encapsulate field 'distance'

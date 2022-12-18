@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+/Users/bogdan/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1915002102.index
+/SimpleWeb/src/main/java
+/Users/bogdan/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2429881612.index
+/JavaFull/src/main/java
+/Users/bogdan/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3150248361.index
+/SimpleWeb/src/main/java
+/Users/bogdan/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2809885149.index
+/JavaFull/src/main/java

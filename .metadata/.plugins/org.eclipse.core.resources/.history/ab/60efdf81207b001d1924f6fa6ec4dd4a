@@ -1,0 +1,64 @@
+package ua.com.foxminded;
+
+public class Car {
+
+    String name;
+
+    int yearOfProduction;
+
+    int price;
+
+    int weight;
+    
+    Color color;
+    
+     int distance = 0 ; 
+    
+  
+
+	public Car(String name, int yearOfProduction, int price, int weight, String color) {
+		super();
+		this.name = name;
+		this.yearOfProduction = yearOfProduction;
+		this.price = price;
+		this.weight = weight;
+		this.color = Color.valueOf(color);
+		
+		
+	}
+
+
+
+
+	public void addDistance (int additionalDistance ) {
+		
+	    if (additionalDistance <= 0) {
+	    
+	    	 throw new IllegalArgumentException("Illegal ACTION !");
+	    	
+	    } else {distance += additionalDistance;}
+	    }
+	
+	
+	
+	
+	
+	/*public int getDistance() {
+		return distance;
+	}
+*/
+
+
+
+
+
+
+	@Override
+	public String toString() {
+		return "Car [name=" + name + ", yearOfProduction=" + yearOfProduction + ", price=" + price + ", weight="
+				+ weight + ", color=" + color + ", distance=" + distance + "]";
+	}
+
+  
+	
+}

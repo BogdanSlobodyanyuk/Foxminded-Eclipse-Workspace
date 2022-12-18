@@ -1,0 +1,5 @@
+127.0.0.1 - - [25/Sep/2022:10:00:37 +0100] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:10:00:41 +0100] "GET /JavaFull/BookManipulation.jsp HTTP/1.1" 200 1541
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:10:00:41 +0100] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:10:00:52 +0100] "GET /JavaFull/FormToAddBook.jsp?name=Biba+and+boba HTTP/1.1" 200 959
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:10:01:21 +0100] "GET /JavaFull/FormToAddBook.jsp?name=bebor HTTP/1.1" 200 951

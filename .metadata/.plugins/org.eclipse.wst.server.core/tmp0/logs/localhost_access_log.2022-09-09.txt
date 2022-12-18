@@ -1,0 +1,7 @@
+127.0.0.1 - - [09/Sep/2022:20:25:49 +0100] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Sep/2022:20:25:50 +0100] "GET /JavaFull/WEB-INF/classes/ua/com/foxminded/db/DatabaseFacade.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [09/Sep/2022:20:26:48 +0100] "GET /JavaFull/WEB-INF/classes/ua/com/foxminded/db/DatabaseFacade.java HTTP/1.1" 404 682
+127.0.0.1 - - [09/Sep/2022:20:27:35 +0100] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Sep/2022:20:28:04 +0100] "GET /JavaFull/ HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [09/Sep/2022:20:28:30 +0100] "GET /JavaFull/DontDoIt.jsp HTTP/1.1" 200 930
+0:0:0:0:0:0:0:1 - - [09/Sep/2022:20:29:14 +0100] "GET /JavaFull/WEB-INF/classes/ua/com/foxminded/db/DatabaseFacade.java HTTP/1.1" 404 682

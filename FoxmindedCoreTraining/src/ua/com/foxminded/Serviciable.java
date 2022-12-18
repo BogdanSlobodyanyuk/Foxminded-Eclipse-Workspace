@@ -1,0 +1,11 @@
+package ua.com.foxminded;
+
+public interface Serviciable {
+
+	
+	public void addDistance (int additionalDistance);
+	
+	public boolean checkDistance ();
+}
+
+

@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS "Books".BOOKS
+
+CREATE TABLE IF NOT EXISTS "Books".books
+(
+    id integer NOT NULL,
+    name character(1) COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT "BOOKS_pkey" PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS "Books".books
+    OWNER to postgres;
