@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ua.com.foxminded.secondpart.Bus&apos; to &apos;BusTfor&apos;&#x0A;- Original project: &apos;JavaFoxminded&apos;&#x0A;- Original element: &apos;ua.com.foxminded.secondpart.Bus&apos;&#x0A;- Renamed element: &apos;ua.com.foxminded.secondpart.BusTfor&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Bus&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ua.com.foxminded.secondpart{Bus.java[Bus" matchStrategy="1" name="BusTfor" qualified="false" references="true" similarDeclarations="false" stamp="1671363238786" textual="false" version="1.0"/>
+</session>
