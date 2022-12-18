@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;JavaFull&apos; to &apos;JavaFullServlets&apos;" description="Rename resource &apos;JavaFull&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JavaFull" name="JavaFullServlets" stamp="1671361102699" updateReferences="true"/>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;JavaFull&apos; to &apos;JavaFullServlets&apos;" description="Rename resource &apos;JavaFull&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JavaFull" name="JavaFullServlets" stamp="1671361102699" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;JavaFullServlets&apos; to &apos;JavaFull&apos;" description="Rename resource &apos;JavaFullServlets&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JavaFullServlets" name="JavaFull" stamp="1671361297850" updateReferences="true"/>
 </session>
