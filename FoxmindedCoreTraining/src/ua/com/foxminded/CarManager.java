@@ -11,7 +11,7 @@ public class CarManager {
 		Car renault = new PassengerCar("Laguna", 2000, 9700, 1600 , "WHITE",10000);
 		
 		Car renaultPassenger = new PassengerCar("Megan", 2016, 13000, 1700, "BLACK", 9000);
-        Car renaultBus = new BusT4 ("Megan", 2010, 12000, 2000, "WHITE",50001);
+        Car renaultBus = new BusMumRed ("Megan", 2010, 12000, 2000, "WHITE",50001);
         
 		Motorcycle suzuki = new Motorcycle ("Suzuki GSX-R1000", 2021, 16000, 600, "Bl AcK" , "Disel", false);
 		Motorcycle yamaha  = new Motorcycle ("Yamaha FZ1", 2007, 9000, 700, "  orange", "Gas" , false);
