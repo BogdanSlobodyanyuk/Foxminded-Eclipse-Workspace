@@ -5,6 +5,8 @@ bin-release/
 [Bb]in/
 .metadata/
 .plugins/
+**/.DS_Store
+**/.metadata/
 
 # Other files and folders
 .settings/
