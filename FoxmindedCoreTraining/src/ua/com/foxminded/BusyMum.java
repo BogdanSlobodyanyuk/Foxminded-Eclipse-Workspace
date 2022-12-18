@@ -1,8 +1,8 @@
 package ua.com.foxminded;
 
-public class BusMum extends Car {
+public class BusyMum extends Car {
 
-	public BusMum(String name, int yearOfProduction, int price, int weight, String color, int distanceForRepair) {
+	public BusyMum(String name, int yearOfProduction, int price, int weight, String color, int distanceForRepair) {
 		super(name, yearOfProduction, price, weight, color, distanceForRepair);
 	
 	}
