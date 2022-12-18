@@ -5,6 +5,5 @@ INDEX VERSION 1.131+/Users/bogdan/GitProject/Foxminded-Eclipse-Workspace/.metada
 1317674949.index
 1865797976.index
 3424885539.index
-3831312531.index
 3122392114.index
 922604555.index
