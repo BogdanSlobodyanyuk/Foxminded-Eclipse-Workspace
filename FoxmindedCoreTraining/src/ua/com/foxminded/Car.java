@@ -8,7 +8,7 @@ public abstract class Car implements Serviciable {
 
     int price;
 
-    int weight;
+    int weightOfCar;
     
     Color color;
     
