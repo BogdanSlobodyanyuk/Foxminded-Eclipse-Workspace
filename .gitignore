@@ -4,6 +4,7 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 .metadata/
+.plugins/
 
 # Other files and folders
 .settings/
