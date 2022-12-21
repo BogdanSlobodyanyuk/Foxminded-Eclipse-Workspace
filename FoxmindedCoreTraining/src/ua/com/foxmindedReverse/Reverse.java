@@ -15,7 +15,7 @@ public class Reverse {
 	public static  String reverse(String input) { 
 		
 		
-		if (input == "  " ) {return input = String.join(input, "  ");} 
+		if (input ==  "  " ) {return input = String.join(input, "  ");} 
 
 		  String inputWords[] = input.split(" ");
 

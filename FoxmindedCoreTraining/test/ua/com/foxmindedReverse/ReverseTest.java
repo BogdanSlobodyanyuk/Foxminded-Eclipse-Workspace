@@ -23,7 +23,7 @@ class ReverseTest {
 	
 	@Test
 	void testSomeSpacesString() {
-		assertEquals("  ", "  " );
+		assertEquals(" ", " " );
 	}
 	
 	
